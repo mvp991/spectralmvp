@@ -1,1 +1,1 @@
-# spectralmvp
+# spectral mvp
